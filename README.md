@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zeroed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about PM or NK plugin develop
-- 📫 How to reach me: 3zeroed@gail.com
+- 📫 How to reach me: 3zeroed@gmail.com
